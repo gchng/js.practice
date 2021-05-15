@@ -1,3 +1,4 @@
 # js.practice
 
-simple projects
+simple projects for my simple mind
+
