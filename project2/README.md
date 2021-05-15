@@ -1,0 +1,1 @@
+An array a day keeps the hard coding in HTML away.
